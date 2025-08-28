@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "title": "Tech News 1",
+      "description": "Description of Tech News 1",
+      "content": "Full content of Tech News 1",
+      "url": "https://example.com/news1",
+      "urlToImage": "https://picsum.photos/400/200?random=1"
+    },
+    {
+      "title": "Tech News 2",
+      "description": "Description of Tech News 2",
+      "content": "Full content of Tech News 2 ahhahah ",
+      "url": "https://example.com/news2",
+      "urlToImage": "https://picsum.photos/400/200?random=2"
+    }
+  ]
+}
